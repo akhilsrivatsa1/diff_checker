@@ -18,7 +18,7 @@ MacOs(version 12.4)
 2. **Google Test**: Used for writing tests.
 
 
-Commands to Execute
+##Commands to Execute
 
 To complie: 
 make
@@ -33,6 +33,6 @@ For Cleaning:
 make clean
 
 Most of the main logic is written in file_util.cpp
-The tests are written in the test subfolder and test_util.cpp
+The tests are written in the test_util.cpp
 
 
