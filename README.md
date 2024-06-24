@@ -18,21 +18,23 @@ MacOs(version 12.4)
 2. **Google Test**: Used for writing tests.
 
 
-##Commands to Execute
+## Commands to Execute
 
-To complie: 
+# To complie: 
 make
 
-For Running: 
+# For Running: 
 make run ARGS="path1 path2"
 
-For testing: 
+# For testing: 
 make test 
 
-For Cleaning: 
+# For Cleaning: 
 make clean
 
-Most of the main logic is written in file_util.cpp
-The tests are written in the test_util.cpp
+
+
+# Most of the main logic is written in file_util.cpp
+# The tests are written in the test_util.cpp
 
 
